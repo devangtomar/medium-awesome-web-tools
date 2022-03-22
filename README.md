@@ -172,6 +172,7 @@ Do tell us which one you are utilizing from the list or out of the list in the c
 
 **GitHub URL for this article 💻**
 
+[https://github.com/devangtomar/medium-awesome-web-tools.git](https://github.com/devangtomar/medium-awesome-web-tools.git)
 
 **Let’s connect and chat! Open to anything under the sun 🏖️🍹**
 
