@@ -162,8 +162,7 @@ One of the top websites on the internet is Awwwards. It offers a good selection 
 
 Here goes the rest of the lists...
 
-![](./myMediaFolder/media/image1.png){width="8.333333333333334in"
-height="5.591666666666667in"}
+![](./myMediaFolder/media/image1.png)
 
 ### UI Component 🚀
 
@@ -456,8 +455,7 @@ add-on chooses colours from a webpage.
 
 The easiest way to identify fonts on web pages.
 
-![](./myMediaFolder/media/image24.jpeg){width="5.333333333333333in"
-height="3.3333333333333335in"}
+![](./myMediaFolder/media/image24.jpeg)
 
 Simply hovering over the typeface on any website is one of the best ways
 to learn its name. The font's name and size will be visible.
@@ -480,8 +478,7 @@ this addon transforms the data into a beautiful format.
 Find out the technology stack of any website. Create lists of websites
 and contacts by the technologies they use.
 
-![](./myMediaFolder/media/image26.jpeg){width="5.333333333333333in"
-height="2.1333333333333333in"}
+![](./myMediaFolder/media/image26.jpeg)
 
 Wappalyzer is a fantastic tool for determining a website's tech stack.
 You can do that through a variety of channels, including APIs and
@@ -495,8 +492,7 @@ Gitpod is an open-source development platform for remote development.
 Accelerate your team's developer experience, remote collaboration, and
 security --- to ship new products faster and more securely.
 
-![](./myMediaFolder/media/image27.jpeg){width="5.333333333333333in"
-height="1.6666666666666667in"}
+![](./myMediaFolder/media/image27.jpeg)
 
 I solely utilise this extension on GitHub. It gives me access to the
 online editor known as VS Code. I employ this addon to review updated
@@ -522,8 +518,7 @@ programming, artificial intelligence, and more.
 Level up your coding skills and quickly land a job. This is the best
 place to expand your knowledge and get prepared for your next interview.
 
-![](./myMediaFolder/media/image29.png){width="8.333333333333334in"
-height="3.2333333333333334in"}
+![](./myMediaFolder/media/image29.png)
 
 Popular web resource Leetcode offers a collection of different
 challenges. You might use it to help you get ready for technical job
@@ -577,8 +572,7 @@ C++, Dart, and others, allow you to write code.
 We're more than a doc. Or a table. Customize Notion to work the way you
 do.
 
-![](./myMediaFolder/media/image33.png){width="7.516666666666667in"
-height="6.383333333333334in"}
+![](./myMediaFolder/media/image33.png)
 
 The single location where most work is managed. I have themes for my
 Gumroad ebook interests, reading list, participation in hackathons, and
@@ -693,8 +687,7 @@ different powers.
 Chrome DevTools is a set of web developer tools built directly into the
 Google Chrome browser.
 
-![](./myMediaFolder/media/image42.png){width="6.375in"
-height="2.216666666666667in"}
+![](./myMediaFolder/media/image42.png)
 
 The best web development tools are already included in your browser. The
 developer tools that Chrome offers are fantastic. You may check the
@@ -707,8 +700,7 @@ The multi-cloud database service at the heart of our developer data
 platform accelerates and simplifies how you build with data. Try MongoDB
 Atlas today!
 
-![](./myMediaFolder/media/image43.png){width="8.333333333333334in"
-height="3.4833333333333334in"}
+![](./myMediaFolder/media/image43.png)
 
 Among the top databases for Web developers that accept JSON-formatted
 data. The cloud-based extension for MongoDB is called Atlas. With Atlas,
@@ -720,8 +712,7 @@ utilising for my React projects.
 
 With that, the full list would be finished. 😴
 
-![](./myMediaFolder/media/image44.jpeg){width="4.166666666666667in"
-height="2.9166666666666665in"}
+![](./myMediaFolder/media/image44.jpeg)
 
 I hope that this collection will assist you in finding the best one for
 your upcoming project.
