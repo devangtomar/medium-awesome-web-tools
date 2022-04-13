@@ -741,27 +741,3 @@ that have been useful to me as I\'ve learned
 Tomar](https://medium.com/u/8f5e1c86129d?source=post_page-----e42119a306ca--------------------------------)\
 ☊ **Hashnode :** [devangtomar](https://devangtomar.hashnode.dev/)\
 **🧑‍💻 Dev.to :** [devangtomar](https://dev.to/devangtomar)
-
-**Conclusion 📒**
-
-These are the useful tools for web developers in 2022, then. Here, we’ve compiled 10+ Practical Tools to make your work quick and simple.
-
-![](./images/Aspose.Words.cd85ba8c-0865-4d11-8897-53d6a1d57487.020.jpeg)
-
-Make a list of the tools you require, then choose from it as needed. We hope that this collection will assist you in finding the best one for your upcoming project.
-
-Do tell us which one you are utilizing from the list or out of the list in the comment area below. Don’t forget to distribute this list to your coworkers as well; after all, caring is sharing. 😍
-
-**GitHub URL for this article 💻**
-
-[https://github.com/devangtomar/medium-awesome-web-tools.git](https://github.com/devangtomar/medium-awesome-web-tools.git)
-
-**Let’s connect and chat! Open to anything under the sun 🏖️🍹**
-
-**🐦 Twitter :** [devangtomar7](https://twitter.com/devangtomar7)
-**🔗 LinkedIn : [devangtomar](https://www.linkedin.com/in/devangtomar)**
-**📚 Stackoverflow :** [devangtomar](https://stackoverflow.com/users/8198097/devangtomar)
-**🖼️ Instagram :** [be_ayushmann](https://instagram.com/be_ayushmann)
-Ⓜ️ **Medium :** [Devang Tomar](https://medium.com/u/8f5e1c86129d?source=post_page-----e42119a306ca--------------------------------)
-☊ **Hashnode :** [devangtomar](https://devangtomar.hashnode.dev/)
-**🧑‍💻 Dev.to :** [devangtomar](https://dev.to/devangtomar)
